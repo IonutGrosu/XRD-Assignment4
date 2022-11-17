@@ -1,0 +1,2 @@
+*.so filter=lfs diff=lfs merge=lfs -text
+XRD-Assignment4/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
